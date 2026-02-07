@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "aiko- 『ストロー』music video",
+  "base_artist": "aiko",
+  "createdAt": "2026-02-07T20:42:12.363727Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "aiko- 『ストロー』music video",
+      "artist": "aiko",
+      "has_synced": true,
+      "path": "select/01_aiko-_『ストロー』music_video_aiko.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "aikoが歌うピクミン愛の歌",
+      "artist": "aiko",
+      "has_synced": false,
+      "path": "select/pl_01_aikoが歌うピクミン愛の歌_aiko.txt"
+    }
+  ]
+}
